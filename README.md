@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 <a href="https://www.youtube.com/channel/UCu3RVedqyL5o776xyQlbyAw">
   <img
-    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+    alt="Facebook"
+    src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"
   />
 </a>
+
 <a href="https://twitter.com/alekswritescode">
   <img
     alt="Twitter"
