@@ -37,26 +37,26 @@
 ---
 
 - 📫 How to reach me: ...
-<a href="https://www.youtube.com/channel/UCu3RVedqyL5o776xyQlbyAw">
+<a href="https://https://www.facebook.com/Hurlakeji">
   <img
     alt="Facebook"
     src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"
   />
 </a>
 
-<a href="https://twitter.com/alekswritescode">
+<a href="https://"https://twitter.com/olak97">
   <img
     alt="Twitter"
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.instagram.com/aleks.popovic/">
+<a href="https://www.instagram.com/hurlakeji94//">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.linkedin.com/in/alekspopovic/">
+<a href="https://www.linkedin.com/in/oshodi-olakeji-669204168//">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
