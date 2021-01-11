@@ -37,14 +37,14 @@
 ---
 
 - 📫 How to reach me: ...
-<a href="https://https://www.facebook.com/Hurlakeji">
+<a href="https://www.facebook.com/Hurlakeji">
   <img
     alt="Facebook"
     src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"
   />
 </a>
 
-<a href="https://"https://twitter.com/olak97">
+<a href="https://twitter.com/olak97">
   <img
     alt="Twitter"
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
