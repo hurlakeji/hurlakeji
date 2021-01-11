@@ -11,12 +11,14 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
+---
 
 - 🔭 I’m currently working on **React** projects 
 - 🌱 I’m currently learning React, Css FlexBox and MERN... 
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 
+---
 
 -Version control: Git and Github
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -32,7 +34,7 @@
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 
-
+---
 
 - 📫 How to reach me: ...
 <a href="https://www.youtube.com/channel/UCu3RVedqyL5o776xyQlbyAw">
